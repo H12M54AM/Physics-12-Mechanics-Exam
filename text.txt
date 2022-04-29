@@ -4,8 +4,37 @@ import (
 	"fmt"
 )
 
+// Unit 1
 
+func uniformMotion() {
+	
+}
+
+func unitOne() {
+	int unitChoice
+	prompt user for options
+
+	switch unitChoice {
+		case 1:
+			Uniform Motion,
+			
+	}
+}
+ 
+// Unit 2
+// Unit 3
+// Unit 4
+// Unit 5
 
 func main() {
+	int choice
+
 	
+	print Intro
+	prompt user of options
+
+	switch choice {
+		case 1:
+
+	}
 }

@@ -6,7 +6,9 @@ import (
 	
 )
 
+func uniformMotion() {
 
+}  
 
 func main() {
 	fmt.Println("Hi")
