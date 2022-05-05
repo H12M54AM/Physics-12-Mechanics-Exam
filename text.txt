@@ -6,9 +6,7 @@ import (
 
 // Unit 1
 
-func uniformMotion() {
-	
-}
+
 
 func unitOne() {
 	int unitChoice
