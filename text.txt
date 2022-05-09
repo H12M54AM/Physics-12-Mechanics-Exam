@@ -14,8 +14,44 @@ func unitOne() {
 
 	switch unitChoice {
 		case 1:
-			Uniform Motion,
+			cosnt QUIT string = q
 			
+			var vf, vi, d, a, t float64
+			var userAnswer, calculationAnswer float64
+
+			Prompt Question 1
+
+			Get user input
+			scan()
+
+			Get user input
+			scan()
+
+			...
+
+			calculate userAnswer
+			
+			if userAnswer == calculationAnswer {
+				print "That is correct!"
+			} else {
+				println "Nearly, but not there"
+				println "\nWould you like to see the Here is how it is done:"
+			}
+			
+
+			break
+		case 2:
+			Prompt Question 2
+			break
+		case 3:
+			Prompt Question 3
+			break
+		case 4:
+			Prompt Question 4
+			break
+		case 5:
+			Prompt Question 5
+			break	
 	}
 }
  
