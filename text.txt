@@ -62,13 +62,22 @@ func unitOne() {
 
 func main() {
 	int choice
+	string response
 
-	
-	print Intro
-	prompt user of options
+	print "would you like to start (y/n) ? => "
+	response
 
-	switch choice {
-		case 1:
+	while response ==  y && response != n {
+		print Intro
+		prompt user of options
 
-	}
+		switch choice {
+			case 1: unitOne()
+			case 2: unitTwo()
+			case 3: unitThree()
+			case 4: unitFour()
+			case 5: unitFive()
+			case 6: unitSix()
+		}
+	} 
 }
